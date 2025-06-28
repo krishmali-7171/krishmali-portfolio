@@ -1,73 +1,48 @@
-# Welcome to your Lovable project
+# 🧑‍💻 Krish Mali — Developer Portfolio
 
-## Project info
+Welcome to my personal developer portfolio — a modern, fast, and clean web app built using **React**, **TypeScript**, **Vite**, **Tailwind CSS**, and **ShadCN UI**, all styled and structured with ❤️ using **Lovable**.
 
-**URL**: https://lovable.dev/projects/a437e630-5b2b-462a-88be-c14da807e275
+🔗 **Live Site:**  
+[https://krishmali-7171.github.io/krishmali-portfolio/](https://krishmali-7171.github.io/krishmali-portfolio/)
 
-## How can I edit this code?
+🎨 **Edit on Lovable:**  
+[https://lovable.dev/projects/a437e630-5b2b-462a-88be-c14da807e275](https://lovable.dev/projects/a437e630-5b2b-462a-88be-c14da807e275)
 
-There are several ways of editing your application.
+---
 
-**Use Lovable**
+## 🚀 Tech Stack
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/a437e630-5b2b-462a-88be-c14da807e275) and start prompting.
+- ⚛️ React + TypeScript
+- ⚡️ Vite
+- 🎨 Tailwind CSS
+- 🧩 ShadCN UI (Radix Primitives)
+- 💡 Lovable (AI-powered editor)
+- 📦 npm
+- 🌐 GitHub Pages (Deployment)
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## 🛠️ Getting Started
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+You can edit this project in 3 ways:
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+### ✅ 1. Edit in [Lovable](https://lovable.dev/projects/a437e630-5b2b-462a-88be-c14da807e275)
 
-Follow these steps:
+- Click “Prompt” to make design or code changes with AI.
+- All changes are **auto-committed to this GitHub repo**.
+- Use “Share → Publish” in Lovable to deploy.
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+### 💻 2. Work Locally with Your IDE
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+```bash
+# Step 1: Clone the repository
+git clone https://github.com/krishmali-7171/krishmali-portfolio.git
 
-# Step 3: Install the necessary dependencies.
-npm i
+# Step 2: Go into the project directory
+cd krishmali-portfolio
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Step 3: Install dependencies
+npm install
+
+# Step 4: Start development server
 npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/a437e630-5b2b-462a-88be-c14da807e275) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
