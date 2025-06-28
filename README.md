@@ -34,7 +34,7 @@ You can edit this project in 3 ways:
 
 ### 💻 2. Work Locally with Your IDE
 
-```bash
+
 # Step 1: Clone the repository
 git clone https://github.com/krishmali-7171/krishmali-portfolio.git
 
@@ -46,3 +46,23 @@ npm install
 
 # Step 4: Start development server
 npm run dev
+
+📁 Project Structure
+krishmali-portfolio/
+├── public/               # Static assets
+├── src/                  # Main source code
+│   ├── components/       # UI components
+│   └── pages/            # Page sections
+├── package.json
+├── vite.config.ts
+└── README.md             # You're here!
+
+###🙋‍♂️ About Me
+
+Hi, I’m Krish Mali, a CSE student and passionate web developer.
+I love building fast, accessible, and beautiful user interfaces with modern technologies.
+This portfolio showcases my skills and projects — and evolves as I grow.
+
+📬 Email: krishmali7171@gmail.com
+🌐 GitHub: @krishmali-7171
+
