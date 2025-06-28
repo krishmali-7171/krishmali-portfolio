@@ -66,7 +66,7 @@ const Hero = () => {
             {/* Profile Image with enhanced styling */}
             <div className="w-48 h-48 mx-auto rounded-full overflow-hidden neon-border animate-glow relative">
               <img
-                src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop&crop=face"
+                src="https://i.ibb.co/9kk0ZPG6/profile-picture.jpg"
                 alt="Krish Mali"
                 className="w-full h-full object-cover"
               />
