@@ -11,7 +11,7 @@ const Footer = () => {
           {/* Logo/Name */}
           <div className="mb-6">
             <h3 className="font-orbitron font-bold text-2xl gradient-text">
-              Krish Mali
+              krishmali_portfolio
             </h3>
             <p className="text-foreground/60 mt-2">
               Web Developer | AI Enthusiast | Student at MIT ADT

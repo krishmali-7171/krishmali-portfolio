@@ -1,4 +1,4 @@
-# 🧑‍💻 Krish Mali — Developer Portfolio
+# 🧑‍💻 krishmali_portfolio
 
 Welcome to my personal developer portfolio — a modern, fast, and clean web app built using **React**, **TypeScript**, **Vite**, **Tailwind CSS**, and **ShadCN UI**, all styled and structured with ❤️ using **Lovable**.
 
