@@ -38,7 +38,7 @@ const Footer = () => {
 
           {/* Quick Navigation */}
           <div className="flex flex-wrap justify-center gap-6 mb-8 text-sm">
-            {['Home', 'About', 'Skills', 'Projects', 'Services', 'Contact'].map((item) => (
+            {['Home', 'About', 'Skills', 'Projects', 'Achievements', 'Services', 'Contact'].map((item) => (
               <button
                 key={item}
                 onClick={() => {

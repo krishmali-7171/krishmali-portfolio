@@ -66,9 +66,9 @@ const Hero = () => {
             {/* Profile Image with enhanced styling */}
             <div className="w-48 h-48 mx-auto rounded-full overflow-hidden neon-border animate-glow relative">
               <img
-                src="https://i.ibb.co/9kk0ZPG6/profile-picture.jpg"
+                src={`${import.meta.env.BASE_URL}profile.jpg`}
                 alt="Krish Mali"
-                className="w-full h-full object-cover"
+                className="w-full h-full object-cover object-top"
               />
               {/* Status indicator */}
               <div className="absolute bottom-4 right-4 w-6 h-6 bg-green-500 rounded-full border-4 border-background animate-pulse"></div>

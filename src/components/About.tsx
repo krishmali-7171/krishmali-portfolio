@@ -1,5 +1,5 @@
 
-import { GraduationCap, Briefcase, Code } from 'lucide-react';
+import { GraduationCap, Briefcase, Code, FileText } from 'lucide-react';
 
 const About = () => {
   return (
@@ -56,6 +56,16 @@ const About = () => {
                 <div>
                   <h3 className="font-semibold text-foreground mb-1">Specialization</h3>
                   <p className="text-foreground/70 text-sm">Front-end Development, AI/ML, Python-based Systems</p>
+                </div>
+              </div>
+
+              <div className="flex items-start space-x-4 glass p-4 rounded-lg hover-lift">
+                <div className="p-2 bg-neon-purple/20 rounded-lg">
+                  <FileText className="text-neon-purple" size={24} />
+                </div>
+                <div>
+                  <h3 className="font-semibold text-foreground mb-1">Research & Publications</h3>
+                  <p className="text-foreground/70 text-sm">AI-Powered Adaptive Assessment Platform (Paper Published)</p>
                 </div>
               </div>
             </div>
