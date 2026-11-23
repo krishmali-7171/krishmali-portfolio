@@ -1,5 +1,5 @@
 
-import { GraduationCap, Briefcase, Code, FileText } from 'lucide-react';
+import { GraduationCap, Code, FileText } from 'lucide-react';
 
 const About = () => {
   return (
@@ -21,10 +21,10 @@ const About = () => {
               interest in building interactive and intelligent web applications.
             </p>
             <p className="text-foreground/70 mb-8 leading-relaxed">
-              Currently pursuing my B.Tech in Computer Science Engineering, I combine academic 
-              excellence with practical experience through my internship at Prodigy InfoTech. 
-              My expertise spans web development, AI/ML, and creating innovative solutions that 
-              bridge technology and user experience.
+              Currently pursuing my B.Tech in Computer Science Engineering, I combine rigorous 
+              academic foundations with hands-on project engineering. My expertise spans modern web 
+              development, AI/ML research, and building innovative solutions that bridge technology 
+              and user experience.
             </p>
 
             {/* Key Points */}
@@ -41,17 +41,7 @@ const About = () => {
 
               <div className="flex items-start space-x-4 glass p-4 rounded-lg hover-lift">
                 <div className="p-2 bg-neon-purple/20 rounded-lg">
-                  <Briefcase className="text-neon-purple" size={24} />
-                </div>
-                <div>
-                  <h3 className="font-semibold text-foreground mb-1">Current Role</h3>
-                  <p className="text-foreground/70 text-sm">Web Development Intern at Prodigy InfoTech</p>
-                </div>
-              </div>
-
-              <div className="flex items-start space-x-4 glass p-4 rounded-lg hover-lift">
-                <div className="p-2 bg-neon-blue/20 rounded-lg">
-                  <Code className="text-neon-blue" size={24} />
+                  <Code className="text-neon-purple" size={24} />
                 </div>
                 <div>
                   <h3 className="font-semibold text-foreground mb-1">Specialization</h3>
@@ -60,8 +50,8 @@ const About = () => {
               </div>
 
               <div className="flex items-start space-x-4 glass p-4 rounded-lg hover-lift">
-                <div className="p-2 bg-neon-purple/20 rounded-lg">
-                  <FileText className="text-neon-purple" size={24} />
+                <div className="p-2 bg-neon-blue/20 rounded-lg">
+                  <FileText className="text-neon-blue" size={24} />
                 </div>
                 <div>
                   <h3 className="font-semibold text-foreground mb-1">Research & Publications</h3>

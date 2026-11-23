@@ -26,10 +26,10 @@ const Achievements = () => {
       icon: <Award className="w-6 h-6 text-neon-blue" />,
     },
     {
-      title: 'Web Development Internship',
-      institution: 'Prodigy InfoTech',
-      timeline: '2024',
-      description: 'Developed responsive, high-performance web applications and engineered user-focused digital solutions.',
+      title: 'Full-Stack & AI Systems Development',
+      institution: 'Independent Projects & Open Source',
+      timeline: '2023 - Present',
+      description: 'Engineered predictive forecasting systems, computer vision detection tools, and modern interactive web applications.',
       icon: <Sparkles className="w-6 h-6 text-neon-purple" />,
     },
   ];
